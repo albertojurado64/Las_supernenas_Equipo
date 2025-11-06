@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3213838049669603748
+--- !u!1 &7469249048531094010
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,23 +8,23 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7075636167978596304}
-  - component: {fileID: 2484812462779870191}
-  - component: {fileID: 9117494801268578944}
+  - component: {fileID: 1327971749971828806}
+  - component: {fileID: 7714438363226105171}
+  - component: {fileID: 8401021924927517482}
   m_Layer: 0
-  m_Name: ZonaAlbertoEnemigo_pasted__EsquinaInterior01
+  m_Name: ZonaAlbertoEnemigo_Mesitadecartas01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7075636167978596304
+--- !u!4 &1327971749971828806
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3213838049669603748}
+  m_GameObject: {fileID: 7469249048531094010}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
@@ -33,21 +33,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &2484812462779870191
+--- !u!33 &7714438363226105171
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3213838049669603748}
-  m_Mesh: {fileID: 7492879449109980081, guid: ab0428df977f64041a5d6e63891d70a7, type: 3}
---- !u!23 &9117494801268578944
+  m_GameObject: {fileID: 7469249048531094010}
+  m_Mesh: {fileID: 3180634902896390877, guid: ab0428df977f64041a5d6e63891d70a7, type: 3}
+--- !u!23 &8401021924927517482
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3213838049669603748}
+  m_GameObject: {fileID: 7469249048531094010}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1

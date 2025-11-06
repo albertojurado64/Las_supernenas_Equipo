@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6971374726036419730}
   - component: {fileID: 3521735209115911330}
   m_Layer: 0
-  m_Name: ZonaAlbertoEnemigo_pasted__polySurface1_pasted__EsquinaExterior
+  m_Name: ZonaAlbertoEnemigo_EsquinaExterior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
